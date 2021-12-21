@@ -14,6 +14,7 @@ Setup and pre requisites:
 
 WARNING / known Bugs: 
 
+- Chatty / Verbose, shows console by default.  Will fix.
 - Overwrites by default
 - Large Resolution export is hardcoded (pending edits for Ruby poll the user)
 - Silent fail on files that cannot write for filename reasons (or perhaps out of memory or other errors)
